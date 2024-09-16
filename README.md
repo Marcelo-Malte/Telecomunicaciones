@@ -20,6 +20,9 @@ Los datos proporcionados contienen la siguiente información:
 
 ## Resultados Esperados
 El análisis permitirá determinar cuál de las tarifas es más rentable, lo que ayudará a Megaline a optimizar su estrategia publicitaria.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/903953f3-08f8-48b1-8370-85c77c348bdb" alt="Descripción de la imagen">
+</p>
 
 ## Tecnologías Utilizadas
 - **Python**: Para la manipulación y análisis de los datos.
