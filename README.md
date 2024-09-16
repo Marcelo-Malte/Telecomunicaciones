@@ -18,8 +18,13 @@ Los datos proporcionados contienen la siguiente información:
 3. **Exploración de los Datos**: Se analiza el comportamiento de los clientes según la tarifa contratada.
 4. **Determinación de Hipótesis**: Se plantean y validan hipótesis sobre cuál tarifa genera más ingresos.
 
-## Resultados Esperados
-El análisis permitirá determinar cuál de las tarifas es más rentable, lo que ayudará a Megaline a optimizar su estrategia publicitaria.
+## Resultados 
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/1432a611-4fea-4f1d-8c17-6be7082fe7e3" alt="Descripción de la imagen 1">
+    <img src="https://github.com/user-attachments/assets/60568001-9419-414e-a7f3-60f4afdebae7" alt="Descripción de la imagen 2">
+</div>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/903953f3-08f8-48b1-8370-85c77c348bdb" alt="Descripción de la imagen">
 </p>
