@@ -21,8 +21,8 @@ Los datos proporcionados contienen la siguiente información:
 ## Resultados 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/1432a611-4fea-4f1d-8c17-6be7082fe7e3 " alt="Descripción de la imagen 1" style="width: 800px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/60568001-9419-414e-a7f3-60f4afdebae7" alt="Descripción de la imagen 2" style="width: 800px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/1432a611-4fea-4f1d-8c17-6be7082fe7e3 " alt="Descripción de la imagen 1" style="width: 400px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/60568001-9419-414e-a7f3-60f4afdebae7" alt="Descripción de la imagen 2" style="width: 400px; height: auto;">
 </div>
 
 <p align="center">
