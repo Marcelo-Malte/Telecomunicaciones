@@ -1,16 +1,16 @@
 # Análisis de Tarifas de Telecomunicaciones
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo identificar cuál de las dos tarifas prepago ofrecidas por **Megaline** (Surf y Ultimate) genera más ingresos, para que el departamento comercial pueda optimizar el presupuesto de publicidad. El análisis está basado en los datos de 500 clientes, que incluyen información sobre sus llamadas, mensajes de texto, uso de internet y la tarifa que tienen contratada.
+Este proyecto tiene como objetivo identificar cuál de las dos tarifas prepago ofrecidas genera más ingresos, para que el departamento comercial pueda optimizar el presupuesto de publicidad. El análisis está basado en los datos clientes, que incluyen información sobre sus llamadas, mensajes de texto, uso de internet y la tarifa que tienen contratada.
 
 ## Datos Utilizados
-Los datos proporcionados por Megaline contienen la siguiente información:
+Los datos proporcionados contienen la siguiente información:
 
 - **Clientes**: Detalles sobre los clientes y su ubicación.
 - **Llamadas**: Cantidad y duración de las llamadas realizadas.
 - **Mensajes de texto**: Número de mensajes enviados.
 - **Uso de Internet**: Cantidad de datos consumidos.
-- **Tarifas**: Información sobre las tarifas contratadas (Surf y Ultimate).
+- **Tarifas**: Información sobre las tarifas contratadas.
 
 ## Pasos del Análisis
 1. **Importación de Librerías**: Utilizamos librerías como `pandas`, `numpy`, `seaborn`, `matplotlib`, y `scipy`.
