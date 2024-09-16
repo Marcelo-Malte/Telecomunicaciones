@@ -35,19 +35,24 @@ Los datos proporcionados contienen la siguiente información:
     <img src="https://github.com/user-attachments/assets/1432a611-4fea-4f1d-8c17-6be7082fe7e3" alt="Descripción de la imagen 1" style="width: 400px; height: auto;">
     <img src="https://github.com/user-attachments/assets/60568001-9419-414e-a7f3-60f4afdebae7" alt="Descripción de la imagen 2" style="width: 400px; height: auto;">
 </div>
+
 ### Mensajes
+
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/15c1355b-2f40-4199-978f-a1649e5127f1" alt="Descripción de la imagen 1" style="width: 400px; height: auto;">
     <img src="https://github.com/user-attachments/assets/f9c0f56a-1d58-4732-8c03-523cc54e952c" alt="Descripción de la imagen 2" style="width: 400px; height: auto;">
 </div>
+
 ### Uso Gbs
+
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/36a15ff8-3261-4f93-984c-275cc3004445" alt="Descripción de la imagen 1" style="width: 400px; height: auto;">
     <img src="https://github.com/user-attachments/assets/f4ecb5b7-6d50-471d-bcb8-7d54c5b299c9" alt="Descripción de la imagen 2" style="width: 400px; height: auto;">
 </div>
+
 ### Ganancias
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4102a018-4e2c-4e6b-a471-e7cb09c24be2" alt="Descripción de la imagen">
 </p>
 
-## Tecnologías Utilizadas
